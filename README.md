@@ -1,3 +1,3 @@
 # Orbiting RegTech 
-## RegTech (Regulatory Technology) is more than a buzzword, it is a very real movement that is already having an impact on regulatory compliance. Discover our RegTech Universe, where we are compiling a list of RegTech companies along with the technologies and solutions they are offering.
-###Our research on the RegTech Universe is an ongoing exercise and this webpage is constantly updated with new RegTech companies, so stay tuned!
+## RegTech (Regulatory Technology) is more than a buzzword, it is a very real movement that is already having an impact on regulatory compliance. Discover our RegTech Universe, where we are ## compiling a list of RegTech companies along with the technologies and solutions they are offering.
+### Our research on the RegTech Universe is an ongoing exercise and this webpage is constantly updated with new RegTech companies, so stay tuned 
